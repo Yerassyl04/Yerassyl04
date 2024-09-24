@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yerassyl04
-- 👀 I’m interested in Literature
-- 🌱 I’m currently learning OOP, Spanish
+- 👀 I’m interested in Literature, History, Reasearch
+- 🌱 I’m currently learning Machine Learning, OOP, Spanish
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thisyera@gmail.com
 - 😄 Pronouns: ...
