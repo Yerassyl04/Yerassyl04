@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Yerassyl04
-- 👀 I’m interested in Literature, History, Reasearch
-- 🌱 I’m currently learning Machine Learning, OOP, Spanish
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in History, Reasearch
+- 🌱 I’m currently learning Machine Learning, OOP.
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me thisyera@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Education: L.N. Gumilyov Eurasian National University (ENU)
 
 <!---
 Yerassyl04/Yerassyl04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
