@@ -9,7 +9,7 @@
 - 🔎 Passionate About:
 - 📜 History, 📖 Research, and 🔍 Exploring innovative technologies.
 - 🌱 Currently Learning:
-- 📘 Machine Learning and 🖥️ Object-Oriented Programming (OOP).
+- 📘 Machine Learning and 🖥️ OOP.
 - 🤝 Looking to Collaborate:
 - 🚀 Open-source projects, cutting-edge research, and impactful applications.
 - ⚡ Education:
