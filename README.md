@@ -1,15 +1,19 @@
-👋 Hi, I'm Yerassyl04
-<div align="center"> <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500"/> </div>
+<h1 align="center">👋 Hi, I'm <b>Yerassyl04</b></h1>
 
-👀 About Me
-🔎 Passionate About:
-📜 History, 📖 Research, and 🔍 Exploring innovative technologies.
-🌱 Currently Learning:
-📘 Machine Learning and 🖥️ Object-Oriented Programming (OOP).
-🤝 Looking to Collaborate:
-🚀 Open-source projects, cutting-edge research, and impactful applications.
-⚡ Education:
-🎓 L.N. Gumilyov Eurasian National University (ENU).
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="500" alt="Person Reading"/>
+</div>
+
+
+- 👀 About Me
+- 🔎 Passionate About:
+- 📜 History, 📖 Research, and 🔍 Exploring innovative technologies.
+- 🌱 Currently Learning:
+- 📘 Machine Learning and 🖥️ Object-Oriented Programming (OOP).
+- 🤝 Looking to Collaborate:
+- 🚀 Open-source projects, cutting-edge research, and impactful applications.
+- ⚡ Education:
+- 🎓 L.N. Gumilyov Eurasian National University (ENU).
 
 <!---
 Yerassyl04/Yerassyl04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
