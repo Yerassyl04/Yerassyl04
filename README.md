@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @Yerassyl04
-- 👀 I’m interested in History, Reasearch
-- 🌱 I’m currently learning Machine Learning, OOP.
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me thisyera@gmail.com
-- ⚡ Education: L.N. Gumilyov Eurasian National University (ENU)
+👋 Hi, I'm Yerassyl04
+<div align="center"> <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500"/> </div>
+
+👀 About Me
+🔎 Passionate About:
+📜 History, 📖 Research, and 🔍 Exploring innovative technologies.
+🌱 Currently Learning:
+📘 Machine Learning and 🖥️ Object-Oriented Programming (OOP).
+🤝 Looking to Collaborate:
+🚀 Open-source projects, cutting-edge research, and impactful applications.
+⚡ Education:
+🎓 L.N. Gumilyov Eurasian National University (ENU).
 
 <!---
 Yerassyl04/Yerassyl04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
