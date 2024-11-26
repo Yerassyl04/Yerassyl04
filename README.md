@@ -10,9 +10,9 @@
     <td>
       <h2>👀 About Me</h2>
       <ul>
-        <li>🔎 <b>Passionate About:</b> 📜 History, 📖 Research, and 🔍 Exploring innovative technologies.</li>
+        <li>🔎 <b>Passionate About:</b> 📜 History, 📖 Research, and 🔍 Analysis.</li>
         <li>🌱 <b>Currently Learning:</b> 📘 Machine Learning and 🖥️ OOP.</li>
-        <li>🤝 <b>Looking to Collaborate:</b> 🚀 Open-source projects, cutting-edge research, and impactful applications.</li>
+        <li>🤝 <b>Looking to Collaborate:</b> 🚀 Open-source projects, cutting-edge research.</li>
         <li>⚡ <b>Education:</b> 🎓 L.N. Gumilyov Eurasian National University (ENU).</li>
       </ul>
     </td>
