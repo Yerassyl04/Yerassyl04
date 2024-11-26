@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <b>Yerassyl04</b></h1>
+<h1 align="center">👋 Hi, I'm <b>Yeris</b></h1>
 
 <table>
   <tr>
