@@ -1,19 +1,24 @@
 <h1 align="center">👋 Hi, I'm <b>Yerassyl04</b></h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="500" alt="Person Reading"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="300" alt="Person Reading"/>
+      </div>
+    </td>
+    <td>
+      <h2>👀 About Me</h2>
+      <ul>
+        <li>🔎 <b>Passionate About:</b> 📜 History, 📖 Research, and 🔍 Exploring innovative technologies.</li>
+        <li>🌱 <b>Currently Learning:</b> 📘 Machine Learning and 🖥️ OOP.</li>
+        <li>🤝 <b>Looking to Collaborate:</b> 🚀 Open-source projects, cutting-edge research, and impactful applications.</li>
+        <li>⚡ <b>Education:</b> 🎓 L.N. Gumilyov Eurasian National University (ENU).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-
-- 👀 About Me
-- 🔎 Passionate About:
-- 📜 History, 📖 Research, and 🔍 Exploring innovative technologies.
-- 🌱 Currently Learning:
-- 📘 Machine Learning and 🖥️ OOP.
-- 🤝 Looking to Collaborate:
-- 🚀 Open-source projects, cutting-edge research, and impactful applications.
-- ⚡ Education:
-- 🎓 L.N. Gumilyov Eurasian National University (ENU).
 
 <!---
 Yerassyl04/Yerassyl04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
