@@ -12,7 +12,7 @@
       <ul>
         <li>🔎 <b>Passionate About:</b> 📜 History, 📖 Research, and 🔍 Analysis.</li>
         <li>🌱 <b>Currently Learning:</b> 📘 Machine Learning and 🖥️ OOP.</li>
-        <li>🤝 <b>Looking to Collaborate:</b> 🚀 Open-source projects, cutting-edge research.</li>
+        <li>🤝 <b>Looking to Collaborate:</b> 🚀 Open-source projects, research.</li>
         <li>⚡ <b>Education:</b> 🎓 L.N. Gumilyov Eurasian National University (ENU).</li>
       </ul>
     </td>
