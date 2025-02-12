@@ -10,7 +10,7 @@
     <td>
       <h2>👀 About Me</h2>
       <ul>
-        <li>🔎 <b>Passionate About:</b> 📜 Data Analysis, 📖 Research, and 🔍 Data mining.</li>
+        <li>🔎 <b>Passionate About:</b> 📜 Data Analysis, 📖 Research, and 🔍 History.</li>
         <li>🌱 <b>Currently Learning:</b> 📘 Machine Learning and 🖥️ OOP.</li>
         <li>🤝 <b>Looking to Collaborate:</b> 🚀 Open-source projects, Research, Internship.</li>
         <li>⚡ <b>Education:</b> 🎓 L.N. Gumilyov Eurasian National University (ENU).</li>
