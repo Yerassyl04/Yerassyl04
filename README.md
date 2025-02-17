@@ -30,7 +30,9 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" title="MS SQL Server" alt="MS SQL Server" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Scikit_learn_logo_small.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Matplotlib_logo.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Pandas_logo.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/NumPy_logo_2020.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
 </div>
 
 :mailbox: My Contacts:
@@ -54,4 +56,5 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/> 
   </a> 
 </div>
+
 
