@@ -30,9 +30,9 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" title="MS SQL Server" alt="MS SQL Server" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pandas_logo.svg/1200px-Pandas_logo.svg.png" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Numpy_logo_2020.svg/1200px-Numpy_logo_2020.svg.png" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Matplotlib_logo.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Pandas_logo.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Numpy-logo.png" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
 </div>
 
 :mailbox: My Contacts:
@@ -56,3 +56,4 @@
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/> 
   </a> 
 </div>
+
