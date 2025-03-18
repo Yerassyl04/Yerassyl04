@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <b>Yerassyl, call me just Yeris</b></h1>
+<h1 align="center">👋 Hi, I'm <b>Yerassyl, call me just Yera</b></h1>
 
 <table>
   <tr>
