@@ -14,7 +14,8 @@
         <li>🌱 <b>Currently Learning:</b> 📘 Machine Learning </li>
         <li>🤝 <b>Looking to Collaborate:</b> 🚀 Open-source projects, Research, Internship.</li>
         <li>⚡ <b>Education:</b> 🎓 L.N. Gumilyov Eurasian National University (ENU). </li>
-        <li>🌍 <b>Languages:</b>  | Kazakh | English | Russian | Spanish | </li>
+        <li>📖 <b>Speciality:</b> 🎓 Information Systems </li>
+        <li>🌍 <b>Languages:</b>  | Kazakh | English | Russian | Spanish | Mandarin </li>
       </ul>
     </td>
   </tr>
