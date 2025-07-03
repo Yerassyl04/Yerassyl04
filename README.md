@@ -13,7 +13,8 @@
         <li>🔎 <b>Passionate About:</b> 📜 Data Analysis, 📖 Research, and 🔍 History.</li>
         <li>🌱 <b>Currently Learning:</b> 📘 Machine Learning </li>
         <li>🤝 <b>Looking to Collaborate:</b> 🚀 Open-source projects, Research, Internship.</li>
-        <li>⚡ <b>Education:</b> 🎓 L.N. Gumilyov Eurasian National University (ENU). /n Universiti Malaya (UM) </li>
+        <li>⚡ <b>Education:</b> 🎓 L.N. Gumilyov Eurasian National University (ENU). |
+          Universiti Malaya (UM) </li>
         <li>📖 <b>Speciality:</b> 📖 Information Systems </li>
         <li>🌍 <b>Languages:</b>  | Kazakh | English | Russian | Spanish | Mandarin </li>
       </ul>
